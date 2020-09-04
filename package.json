@@ -46,6 +46,6 @@
     "@types/history": "^4.7.2",
     "@types/reach__router": "^1.2.3",
     "@types/react-redux": "^7.0.5",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
